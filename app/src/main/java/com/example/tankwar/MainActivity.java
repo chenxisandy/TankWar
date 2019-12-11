@@ -60,7 +60,7 @@ public class MainActivity extends BaseActivity implements View.OnClickListener {
     }
 
     private void openSetting() {
-        // TODO: 2019/12/5
+        // TODO: 2019/12/
     }
 
     private void openRanking() {
